@@ -8,6 +8,6 @@ permalink: http://www.yammer.gr/testinggg/
 published: true
 post_date: 2019-02-06 23:38:31
 ---
-&nbsp;
+[fp-ranking date="now"]
 
-[fp-predictions matchtype="15"]
+[fp-scores matchtype="15"]
