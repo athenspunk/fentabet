@@ -12,4 +12,4 @@ post_date: 2019-02-06 23:38:31
 
 [fp-scores matchtype="19"]
 
-[fp-ranking ranking="3" league="user" date="now"][fp-ranking ranking="3" league="user" date="now"]
+[fp-ranking num="20" date="now"]
