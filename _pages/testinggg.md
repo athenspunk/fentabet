@@ -9,3 +9,5 @@ published: true
 post_date: 2019-02-06 23:38:31
 ---
 [fp-user-ranking league_rank="yes" date="now"]
+
+[fp-scores matchtype="19"]
