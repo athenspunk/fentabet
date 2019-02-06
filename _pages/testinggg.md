@@ -10,4 +10,4 @@ post_date: 2019-02-06 23:38:31
 ---
 [fp-user-score date="now"]
 
-[fp-predictions question="34" use_querystring="yes"]
+[fp-predictions question="34" use_querystring="no"]
