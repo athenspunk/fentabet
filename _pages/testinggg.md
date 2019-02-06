@@ -17,3 +17,7 @@ post_date: 2019-02-06 23:38:31
 [fp-ranking ranking="4" league="user" date="now"]
 
 [fp-scores matchtype="7"]
+
+[fp-next-matches matchtype="19" date="now"]
+
+[fp-predictions match="342"]
