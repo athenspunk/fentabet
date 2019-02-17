@@ -9,3 +9,4 @@ published: true
 post_date: 2015-08-07 15:46:27
 ---
 [xyz-ips snippet="test1"]
+[fp-wallet]
