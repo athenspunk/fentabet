@@ -12,6 +12,24 @@ post_date: 2015-08-07 15:46:27
 <tbody>
 <tr style="height: 37px;">
 <td style="width: 118px; height: 37px;"></td>
+<td style="width: 118px; height: 37px;">Live</td>
+</tr>
+<tr>
+<td style="width: 118px;">Βαθμοί</td>
+<td style="width: 118px;">[fp-wallet]</td>
+<td style="width: 119px;"></td>
+</tr>
+<tr>
+<td style="width: 118px;">Θέση</td>
+<td style="width: 118px;">[fp-wallet2]</td>
+<td style="width: 119px;"></td>
+</tr>
+</tbody>
+</table>
+<table style="height: 115px;" width="750">
+<tbody>
+<tr style="height: 37px;">
+<td style="width: 118px; height: 37px;"></td>
 <td style="width: 118px; height: 37px;">October</td>
 <td style="width: 118px; height: 37px;">November</td>
 <td style="width: 118px; height: 37px;">December</td>
