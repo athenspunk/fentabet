@@ -39,4 +39,4 @@ post_date: 2016-09-14 18:36:12
 </tr>
 </tbody>
 </table>
-&nbsp;
+[fp-last-predictions]
