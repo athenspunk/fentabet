@@ -17,12 +17,10 @@ post_date: 2015-08-07 15:46:27
 <tr>
 <td style="width: 118px;">Βαθμοί</td>
 <td style="width: 118px;">[fp-wallet]</td>
-<td style="width: 119px;"></td>
 </tr>
 <tr>
 <td style="width: 118px;">Θέση</td>
 <td style="width: 118px;">[fp-wallet2]</td>
-<td style="width: 119px;"></td>
 </tr>
 </tbody>
 </table>
