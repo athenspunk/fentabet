@@ -30,11 +30,11 @@ post_date: 2016-09-14 18:36:12
 </tr>
 <tr>
 <td style="width: 118px;">Θέση</td>
-<td style="width: 118px;">[fp-user-thesi date= "2018-10-1"]</td>
-<td style="width: 118px;">[fp-user-thesi date= "2018-11-1"]</td>
-<td style="width: 118px;">[fp-user-thesi date= "2018-12-1"]</td>
-<td style="width: 118px;">[fp-user-thesi date= "2019-1-1"]</td>
-<td style="width: 119px;">[fp-user-thesi date= "2019-2-1"]</td>
+<td style="width: 118px;">[fp-wallet date= "2018-10-1"]</td>
+<td style="width: 118px;">[fp-wallet date= "2018-11-1"]</td>
+<td style="width: 118px;">[fp-wallet date= "2018-12-1"]</td>
+<td style="width: 118px;">[fp-wallet date= "2019-1-1"]</td>
+<td style="width: 119px;">[fp-wallet date= "2019-2-1"]</td>
 <td style="width: 119px;"></td>
 </tr>
 </tbody>
