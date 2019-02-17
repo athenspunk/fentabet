@@ -12,6 +12,7 @@ post_date: 2015-08-07 15:46:27
 Θέση: [fp-wallet2]</strong></h1>
 [xyz-ips snippet="test1"]
 <table style="height: 115px;" width="750">
+<br><br>
 <tbody>
 <tr style="height: 37px;">
 <td style="width: 118px; height: 37px;"></td>
