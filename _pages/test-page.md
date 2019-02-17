@@ -1,6 +1,6 @@
 ---
 ID: 279
-post_title: Test Page
+post_title: My Account
 author: cbr
 post_excerpt: ""
 layout: page
