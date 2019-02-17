@@ -8,9 +8,8 @@ permalink: http://www.yammer.gr/test-page/
 published: true
 post_date: 2015-08-07 15:46:27
 ---
-<strong>Βαθμοί: [fp-wallet]
-Θέση: [fp-wallet2]</strong>
-
+<h1 style="text-align: center;"><strong>Βαθμοί: [fp-wallet]
+Θέση: [fp-wallet2]</strong></h1>
 <table style="height: 115px;" width="750">
 <tbody>
 <tr style="height: 37px;">
