@@ -8,4 +8,4 @@ permalink: http://www.yammer.gr/mail/
 published: true
 post_date: 2016-09-14 18:36:12
 ---
-[fp-wallet date="now"]
+[fp-wallet]
