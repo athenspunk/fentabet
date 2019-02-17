@@ -10,6 +10,7 @@ post_date: 2015-08-07 15:46:27
 ---
 <h1 style="text-align: center;"><strong>Βαθμοί: [fp-wallet]
 Θέση: [fp-wallet2]</strong></h1>
+[xyz-ips snippet="test1"]
 <table style="height: 115px;" width="750">
 <tbody>
 <tr style="height: 37px;">
@@ -41,4 +42,3 @@ post_date: 2015-08-07 15:46:27
 </tr>
 </tbody>
 </table>
-[xyz-ips snippet="test1"]
