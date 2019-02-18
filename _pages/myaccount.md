@@ -4,7 +4,8 @@ post_title: My Account
 author: cbr
 post_excerpt: ""
 layout: page
-permalink: http://www.yammer.gr/myaccount/
+permalink: >
+  http://www.yammer.gr/vathmologies/myaccount/
 published: true
 post_date: 2015-08-07 15:46:27
 ---
