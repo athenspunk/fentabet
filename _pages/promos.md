@@ -1,14 +1,13 @@
 ---
 ID: 3430
-post_title: ""
+post_title: Promos
 author: cbr
 post_excerpt: ""
 layout: page
-permalink: http://www.yammer.gr/3430-2/
+permalink: http://www.yammer.gr/promos/
 published: true
 post_date: 2019-02-18 21:22:53
 ---
-
 <!DOCTYPE html>
 <html class=" el el-gr  promo-plugin empty-layout" lang="el" data-srvid="130.129.143" data-domain=".bwin.gr" data-env="prod">
 <head>
