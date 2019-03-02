@@ -4,7 +4,7 @@ post_title: Αποδόσεις
 author: cbr
 post_excerpt: ""
 layout: page
-permalink: http://www.yammer.gr/rankings-odds/
+permalink: http://www.yammer.gr/mensranking/
 published: true
 post_date: 2019-03-02 14:34:40
 ---
