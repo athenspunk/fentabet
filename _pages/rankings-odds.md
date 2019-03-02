@@ -1,6 +1,6 @@
 ---
 ID: 3436
-post_title: odds
+post_title: Αποδόσεις
 author: cbr
 post_excerpt: ""
 layout: page
