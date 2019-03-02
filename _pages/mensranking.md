@@ -1,6 +1,6 @@
 ---
 ID: 3436
-post_title: Αποδόσεις
+post_title: Αντρική Βαθμολογία
 author: cbr
 post_excerpt: ""
 layout: page
