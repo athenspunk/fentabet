@@ -8,4 +8,4 @@ permalink: http://www.yammer.gr/rankings-odds/
 published: true
 post_date: 2019-03-02 14:34:40
 ---
-[xyz-ips snippet="odds-rankings"]
+	[xyz-ips snippet="odds-rankings"]
