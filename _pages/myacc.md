@@ -1,6 +1,6 @@
 ---
 ID: 3427
-post_title: myacc
+post_title: Myaccount
 author: cbr
 post_excerpt: ""
 layout: page
