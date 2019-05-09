@@ -1,10 +1,10 @@
 ---
 ID: 3184
-post_title: anakoinwseis
+post_title: hall of fame
 author: cbr
 post_excerpt: ""
 layout: page
-permalink: http://www.yammer.gr/anakoinwseis/
+permalink: http://www.yammer.gr/halloffame/
 published: true
 post_date: 2017-08-24 16:53:04
 ---
