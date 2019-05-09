@@ -1,6 +1,6 @@
 ---
 ID: 3184
-post_title: hall of fame
+post_title: Hall of Fame
 author: cbr
 post_excerpt: ""
 layout: page
